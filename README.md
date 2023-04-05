@@ -1,6 +1,6 @@
 # company_device_management Documentaion
 
-** Project Overview **
+* _Project Overview _ *
 The project is a Django application for tracking corporate assets, such as phones, tablets, laptops, and other gear handed out to employees. The application allows multiple companies to add all or some of their employees, and delegate one or more devices to employees for a certain period of time. Each company can see when a device was checked out and returned, and each device has a log of what condition it was handed out and returned.
 
 ** Models **
